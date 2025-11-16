@@ -1,0 +1,14 @@
+{
+  "validSearch": {
+    "productName": "SGL 6L Air Fryer",
+    "expectedResult": "Product should be displayed in search results"
+  },
+  "invalidSearch": {
+    "productName": "XYZ123Product",
+    "expectedResult": "No products were found"
+  },
+  "partialSearch": {
+    "productName": "Air",
+    "expectedResult": "Products related to the keyword should appear"
+  }
+}

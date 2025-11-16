@@ -1,0 +1,8 @@
+{
+  "validUser": {
+    "email": "testuser060@yopmail.com"
+  },
+  "invalidUser": {
+    "email": "invalid-email"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "validAllDeatils": {
+    "firstName": "hiruni",
+    "lastName": "koshila",
+    "email": "hiruni@irusri.com",
+    "comment": "Hi, Can You Help Me?"
+  },
+
+  "emptyFirstName": {
+    "firstName": "",
+    "lastName": "koshila",
+    "email": "hiruni@irusri.com",
+    "comment": "Hi, Can You Help Me?"
+  },
+
+  "emptyLastName": {
+    "firstName": "hiruni",
+    "lastName": "",
+    "email": "hiruni@irusri.com",
+    "comment": "Hi, Can You Help Me?"
+  },
+
+  "emptyEmail": {
+    "firstName": "hiruni",
+    "lastName": "koshila",
+    "email": "",
+    "comment": "Hi, Can You Help Me?"
+  },
+
+  "emptyComment": {
+    "firstName": "hiruni",
+    "lastName": "koshila",
+    "email": "hiruni@irusri.com",
+    "comment": ""
+  }
+}
